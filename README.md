@@ -1,4 +1,4 @@
-<h1 align="center"> 💀NIGHTMARE-MD💀 </h1>
+<h1 align="center"> NIGHTMARE-MD </h1>
 
 <p align="center">
   <a href="https://github.com/sajidali5535/NIGHTMARE-MD">

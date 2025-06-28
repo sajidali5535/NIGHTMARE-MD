@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sajidali5535/NIGHTMARE-MD">
-    <img alt="NIGHTMARE-MD docs" height="350" src="https://files.catbox.moe/iyyd6w.jpg">
+    <img alt="NIGHTMARE-MD docs" height="350" src="https://files.catbox.moe/i6m8pg.jpg">
   </a>
 </p>
     
